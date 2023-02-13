@@ -1,4 +1,2 @@
-this is hello world
-this is a counfused smiley
-this is a hello file
-this is two files
+All about shell redirections
+0-hello_world
